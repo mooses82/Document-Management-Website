@@ -11,6 +11,7 @@ A web application for streamlined document management, designed to support effic
 - **Password Email Reset**: Any members of your team has forgotten their login information? All they do is enter their email and they will receive a new password in their Email!
 - **Email Support**: Anyone can send a help ticket to you, which you can receive in discord & straight into you and your support team's email!
 - **Highly Deployable**: Activate this website in < 10 minutes, all you do is change your configuration and thats it! It will create your SQLite Database automatically and add all of your default users on first deployment.
+- **Discord Bot Management:** Allow you and your Support Team to reset passwords, usernames, emails and more conveniently through discord! Your familiar platform. 
 
 
 ### Whats to come?
